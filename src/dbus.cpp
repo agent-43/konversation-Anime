@@ -47,6 +47,20 @@ QStringList DBus::listConnections()
     return connections;
 }
 
+QStringList DBus::listConnectionNames()
+{
+    Application* konvApp = Application::instance();
+
+    QStringList connections;
+    const QList<Server*> serverList = konvApp->getConnectionManager()->getServerList();
+
+    connections.reserve(serverList.size());
+    for (Server* server : serverList)
+        connections << server->getDisplayName();
+
+    return connections;
+}
+
 QStringList DBus::listServers()
 {
     Application* konvApp = Application::instance();

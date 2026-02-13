@@ -56,6 +56,7 @@ class DBus : public QObject
         void insertMarkerLine();
         void connectToServer(const QString& address, int port, const QString& channel, const QString& password);
         QStringList listConnections();
+        QStringList listConnectionNames();
         QStringList listServers();
         QStringList listConnectedServers();
         QStringList listJoinedChannels(const QString& server);
