@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2024-12-28 17:41+0100\n"
 "Last-Translator: Oliver Kellogg <olivermkellogg@gmail.com>\n"
 "Language-Team: esperanto <kde-i18n-eo@kde.org>\n"
@@ -2723,17 +2723,17 @@ msgstr "Identeca agordo"
 msgid "Edit Identity..."
 msgstr "Redakti Identecon..."
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, kde-format
 msgid "Debug: %1"
 msgstr "Sencimigo: %1"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, kde-format
 msgid "Error: %1"
 msgstr "Eraro: %1"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr "getNickname: Servilo %1 ne estas trovita."

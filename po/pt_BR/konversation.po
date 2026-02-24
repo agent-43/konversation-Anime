@@ -19,7 +19,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2025-11-28 07:16-0300\n"
 "Last-Translator: Marcus Gama <marcus.gama@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <kde-i18n-pt_BR@kde.org>\n"
@@ -2765,17 +2765,17 @@ msgstr "Configurações da identidade"
 msgid "Edit Identity..."
 msgstr "Editar identidade..."
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, kde-format
 msgid "Debug: %1"
 msgstr "Depuração: %1"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, kde-format
 msgid "Error: %1"
 msgstr "Erro: %1"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr "getNickname: o servidor %1 não foi encontrado."

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2008-02-22 22:30+0800\n"
 "Last-Translator: Sharuzzaman Ahmat Raslan <sharuzzaman@myrealbox.com>\n"
 "Language-Team: Malay <kedidiemas@yahoogroups.com>\n"
@@ -2616,17 +2616,17 @@ msgstr "Tetapan Semasa"
 msgid "Edit Identity..."
 msgstr "Sunting hip&erlink"
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, fuzzy, kde-format
 msgid "Debug: %1"
 msgstr "Mod nyahpepijat"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, fuzzy, kde-format
 msgid "Error: %1"
 msgstr "Ralat KMail"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr ""

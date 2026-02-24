@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2014-09-30 10:05+0200\n"
 "Last-Translator: Bjørn Steensrud <bjornst@skogkatt.homelinux.org>\n"
 "Language-Team: Norwegian Bokmål <l10n-no@lister.huftis.org>\n"
@@ -2716,17 +2716,17 @@ msgstr "Identitetsinnstillinger"
 msgid "Edit Identity..."
 msgstr "Rediger identitet …"
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, kde-format
 msgid "Debug: %1"
 msgstr "Feilsøk: %1"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, kde-format
 msgid "Error: %1"
 msgstr "Feil: %1"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr "getNickname: Fant ikke tjener %1."

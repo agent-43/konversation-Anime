@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2012-07-11 10:37+0700\n"
 "Last-Translator: Khoem Sokhem <khoemsokhem@khmeros.info>\n"
 "Language-Team: Khmer\n"
@@ -2715,17 +2715,17 @@ msgstr "ការ​កំណត់​អត្តសញ្ញាណ"
 msgid "Edit Identity..."
 msgstr "កែសម្រួល​អត្តសញ្ញាណ​..."
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, kde-format
 msgid "Debug: %1"
 msgstr "បំបាត់​កំហុស ៖ %1"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, kde-format
 msgid "Error: %1"
 msgstr "កំហុស ៖ %1"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr "មាន​ឈ្មោះ​សម្មតិនាម ៖ ម៉ាស៊ីន​បម្រើ​ %1 មិន​ត្រូវ​បាន​ស្វែង​រក​ឡើយ​ ។"

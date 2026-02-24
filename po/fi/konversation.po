@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2026-01-19 16:54+0200\n"
 "Last-Translator: Tommi Nieminen <translator@legisign.org>\n"
 "Language-Team: Finnish <kde-i18n-doc@kde.org>\n"
@@ -2749,17 +2749,17 @@ msgstr "Henkilöysasetukset"
 msgid "Edit Identity..."
 msgstr "Muokkaa henkilöyttä…"
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, kde-format
 msgid "Debug: %1"
 msgstr "Virheenpaikannus: %1"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, kde-format
 msgid "Error: %1"
 msgstr "Virhe: %1"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr "getNickname: Palvelinta %1 ei löydetty."

@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2016-04-08 22:57+0000\n"
 "Last-Translator: Sveinn í Felli <sv1@fellsnet.is>\n"
 "Language-Team: Icelandic <translation-team-is@lists.sourceforge.net>\n"
@@ -2617,17 +2617,17 @@ msgstr "Stillingar auðkennis"
 msgid "Edit Identity..."
 msgstr ""
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, fuzzy, kde-format
 msgid "Debug: %1"
 msgstr "Aflúsa"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, fuzzy, kde-format
 msgid "Error: %1"
 msgstr "Villa"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr ""

@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2022-11-10 12:45+0700\n"
 "Last-Translator: OIS <mistresssilvara@hotmail.com>\n"
 "Language-Team: Interlingue <kde-i18n-doc@kde.org>\n"
@@ -2643,17 +2643,17 @@ msgstr "&Identitá:"
 msgid "Edit Identity..."
 msgstr "&Identitá:"
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, fuzzy, kde-format
 msgid "Debug: %1"
 msgstr "Debug: %1"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, kde-format
 msgid "Error: %1"
 msgstr "Errore: %1"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, fuzzy, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr "Li servitore «%s» ne posse esser trovat."

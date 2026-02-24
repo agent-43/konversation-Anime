@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2022-02-26 11:47+0530\n"
 "Last-Translator: Raghavendra Kamath <raghu@raghukamath.com>\n"
 "Language-Team: Hindi <kde-l10n-hi@kde.org>\n"
@@ -2653,18 +2653,18 @@ msgstr "पहचान विन्यास जाँचें"
 msgid "Edit Identity..."
 msgstr "पहचान जोड़ें"
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, kde-format
 msgid "Debug: %1"
 msgstr ""
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, fuzzy, kde-format
 #| msgid "KIO error: %1"
 msgid "Error: %1"
 msgstr "केआईओ त्रुटि: %1"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, fuzzy, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr "सर्वर %1 नहीं मिला.  %2"

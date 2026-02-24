@@ -16,7 +16,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation 3.4\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2005-05-25 18:43-0600\n"
 "Last-Translator: Steve Murphy <murf@e-tools.com>\n"
 "Language-Team: Kinyarwanda <translation-team-rw@lists.sourceforge.net>\n"
@@ -2680,18 +2680,18 @@ msgstr "Igenamiterere y'ibiranga"
 msgid "Edit Identity..."
 msgstr "Ikiranga"
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, fuzzy, kde-format
 #| msgid "Debug"
 msgid "Debug: %1"
 msgstr "Kosora amakosa"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, fuzzy, kde-format
 msgid "Error: %1"
 msgstr "Ikosa : %1 "
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, fuzzy, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr "%1 OYA Byabonetse . %2 "

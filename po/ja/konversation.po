@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2019-04-21 19:00-0700\n"
 "Last-Translator: Fumiaki Okushi <fumiaki.okushi@gmail.com>\n"
 "Language-Team: Japanese <kde-jp@kde.org>\n"
@@ -2780,19 +2780,19 @@ msgstr "個人情報の設定"
 msgid "Edit Identity..."
 msgstr "個人情報を編集..."
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, fuzzy, kde-format
 #| msgid "Debug"
 msgid "Debug: %1"
 msgstr "デバッグ"
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, fuzzy, kde-format
 #| msgid "KIO error: %1"
 msgid "Error: %1"
 msgstr "KIO エラー: %1"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr "getNickname: サーバ %1 が見つかりません。"

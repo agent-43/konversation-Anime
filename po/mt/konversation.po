@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: konversation\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2026-01-04 00:44+0000\n"
+"POT-Creation-Date: 2026-02-24 00:44+0000\n"
 "PO-Revision-Date: 2005-01-30 13:45+0100\n"
 "Last-Translator: Kevin Attard Compagno <kac_comp@webhostmalta.com>\n"
 "Language-Team: Maltese <mt@li.org>\n"
@@ -2625,17 +2625,17 @@ msgstr ""
 msgid "Edit Identity..."
 msgstr "Nueva identidad"
 
-#: src/dbus.cpp:150
+#: src/dbus.cpp:164
 #, kde-format
 msgid "Debug: %1"
 msgstr ""
 
-#: src/dbus.cpp:156
+#: src/dbus.cpp:170
 #, fuzzy, kde-format
 msgid "Error: %1"
 msgstr "KIO error"
 
-#: src/dbus.cpp:176
+#: src/dbus.cpp:190
 #, kde-format
 msgid "getNickname: Server %1 is not found."
 msgstr ""
