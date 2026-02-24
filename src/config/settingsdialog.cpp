@@ -25,6 +25,7 @@
 #include "osd_config.h"
 #include "launcherentry_config.h"
 #include "theme_config.h"
+#include "animelab_config.h"
 #include "alias_config.h"
 #include "ignore_config.h"
 #include "ui_watchednicknames_configui.h"
@@ -72,6 +73,12 @@ KonviSettingsDialog::KonviSettingsDialog( QWidget *parent) :
   konviAddSubPage(interfaceGroup, m_confThemeWdg, i18n("Nicklist Themes"), QStringLiteral("preferences-desktop-icons"));
   m_pages.append(m_confThemeWdg);
   connect(m_confThemeWdg, &Theme_Config::modified, this, &KonviSettingsDialog::modifiedSlot);
+
+  //Interface/Anime Lab
+  m_confAnimeLabWdg = new AnimeLab_Config(this, "AnimeLab");
+  konviAddSubPage(interfaceGroup, m_confAnimeLabWdg, i18n("Anime Lab"), QStringLiteral("applications-graphics"));
+  m_pages.append(m_confAnimeLabWdg);
+  connect(m_confAnimeLabWdg, &AnimeLab_Config::modified, this, &KonviSettingsDialog::modifiedSlot);
 
   //Interface/Colors
   Ui::ColorsAppearance_Config confColorsAppearance;

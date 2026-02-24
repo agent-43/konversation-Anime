@@ -26,6 +26,7 @@ class Highlight_Config;
 class OSD_Config;
 class LauncherEntry_Config;
 class Ignore_Config;
+class AnimeLab_Config;
 
 
 class KonviSettingsDialog : public ConfigDialog
@@ -59,6 +60,7 @@ class KonviSettingsDialog : public ConfigDialog
         OSD_Config* m_confOSDWdg;
         LauncherEntry_Config* m_confLauncherEntryWdg;
         Ignore_Config* m_confIgnoreWdg;
+        AnimeLab_Config* m_confAnimeLabWdg;
 
         bool m_modified;
 

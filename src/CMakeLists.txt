@@ -115,6 +115,8 @@ ki18n_wrap_ui(konversation
 
     #=== Configuration dialog pages
 target_sources(konversation PRIVATE
+    config/animelab_config.cpp
+    config/animelab_config.h
     config/alias_config.cpp
     config/alias_config.h
     config/autoreplace_config.cpp
