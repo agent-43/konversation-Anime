@@ -1,3 +1,4 @@
+add_subdirectory(anime-sakura)
 add_subdirectory(alternative)
 add_subdirectory(christmas)
 add_subdirectory(classic)
